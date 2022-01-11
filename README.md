@@ -3,7 +3,7 @@
 2. 해당 문제가 어려울 경우 다른 문제로 대체 가능
 3. <strong>마감시간</strong> : `화요일 오후 6시` 이전까지 제출
 
-### Template
+### 📑 Template
 ##### filename: 이름_날짜.md
 ```html
 1)
