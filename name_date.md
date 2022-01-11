@@ -2,7 +2,7 @@
   1. 문제 이름
   2. 풀이
   ```python
-  'hello world'
+  'hello world' or gitRepo 참조
   ```
   3. 설명
 
@@ -10,7 +10,7 @@
   1. 문제 이름
   2. 풀이
   ```python
-  'hello world'
+  'hello world' or gitRepo 참조
   ```
   3. 설명
 
@@ -18,6 +18,6 @@
   1. 문제 이름
   2. 풀이
   ```python
-  'hello world'
+  'hello world' or gitRepo 참조
   ```
   3. 설명
